@@ -1837,7 +1837,7 @@ jano50.on("ready", () => {
   );
   let statuses = [
   
-  `I rely on God that's why no one can destroy him`,
+  `JUST ALLAH`,
 
   ];
   setInterval(function() {
