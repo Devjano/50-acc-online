@@ -6,11 +6,11 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`https://200-accounte-online.glitch.me`);
+  http.get(``);
 }, 280000);
 //////////////////////////
 const Discord = require("discord.js");
-const myid = ['681553671364018196'] //////////////// prefix wara
+const myid = [''] //////////////// prefix wara
 const jano = new Discord.Client();
 const jano2 = new Discord.Client();
 const jano3 = new Discord.Client();
